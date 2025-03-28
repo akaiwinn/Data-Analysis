@@ -1,6 +1,6 @@
-##This repository contains the final report for the Data Mining course. The report explores various data mining techniques, including preprocessing, classification, clustering, and association rule mining.
+## This repository contains the final report for the Data Mining course. The report explores various data mining techniques, including preprocessing, classification, clustering, and association rule mining.
 
-#Summary
+## Summary
 - The study focuses on the application of data mining methods in real-world scenarios. It covers:
 
 - Data Preprocessing: Handling missing values, data normalization, and feature selection.
@@ -11,7 +11,7 @@
 
 The report also includes experimental results, performance evaluation, and insights into the effectiveness of different techniques.
 
-#Technologies Used
+# Technologies Used
 Python (Pandas, Scikit-learn, TensorFlow)
 
 Jupyter Notebook
